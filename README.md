@@ -43,8 +43,9 @@ Add descriptions[i][1] to the map and set its value in child to true, to indicat
 Lastly, for our return value we return the root, which will be whichever node in the map is not a child node of another node.
 
 Complexity
-Time complexity: O(n)
-Space complexity: O(n)
+
+1) Time complexity: O(n)
+2) Space complexity: O(n)
 
 # JAVA CODE
 
