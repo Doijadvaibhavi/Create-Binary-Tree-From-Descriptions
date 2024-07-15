@@ -25,11 +25,11 @@ The resulting binary tree is shown in the diagram.
 
 Constraints:
 
-1 <= descriptions.length <= 104
-descriptions[i].length == 3
-1 <= parenti, childi <= 105
-0 <= isLefti <= 1
-The binary tree described by descriptions is valid.
+* 1 <= descriptions.length <= 104
+* descriptions[i].length == 3
+* 1 <= parenti, childi <= 105
+* 0 <= isLefti <= 1
+* The binary tree described by descriptions is valid.
 
 # SOLUTION 
 
